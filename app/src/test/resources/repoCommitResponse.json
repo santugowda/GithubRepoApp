@@ -1,0 +1,1028 @@
+[
+  {
+    "sha": "668552133b90a35d7b1970ed1720eb439a08efce",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjY2ODU1MjEzM2I5MGEzNWQ3YjE5NzBlZDE3MjBlYjQzOWEwOGVmY2U=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T03:22:58Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T03:22:58Z"
+      },
+      "message": "Merge branch 'master' of https://github.com/santugowda/android-interview-project-master",
+      "tree": {
+        "sha": "99c162a438a32b8911a15a3158fc343a241a1c29",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/99c162a438a32b8911a15a3158fc343a241a1c29"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/668552133b90a35d7b1970ed1720eb439a08efce",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/668552133b90a35d7b1970ed1720eb439a08efce",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/668552133b90a35d7b1970ed1720eb439a08efce",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/668552133b90a35d7b1970ed1720eb439a08efce/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9a8db22537d2435bdd4bc4d6dedc12deae455541",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/9a8db22537d2435bdd4bc4d6dedc12deae455541",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/9a8db22537d2435bdd4bc4d6dedc12deae455541"
+      },
+      {
+        "sha": "9db26196520c709f495c8c7be44f10f01d4c38a0",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/9db26196520c709f495c8c7be44f10f01d4c38a0",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/9db26196520c709f495c8c7be44f10f01d4c38a0"
+      }
+    ]
+  },
+  {
+    "sha": "9a8db22537d2435bdd4bc4d6dedc12deae455541",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjlhOGRiMjI1MzdkMjQzNWJkZDRiYzRkNmRlZGMxMmRlYWU0NTU1NDE=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T03:22:54Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T03:22:54Z"
+      },
+      "message": "Displaying data from json file when device is offline",
+      "tree": {
+        "sha": "bda4b1a2ba9a9246f2993a8b2cf34281257d3f99",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/bda4b1a2ba9a9246f2993a8b2cf34281257d3f99"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/9a8db22537d2435bdd4bc4d6dedc12deae455541",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/9a8db22537d2435bdd4bc4d6dedc12deae455541",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/9a8db22537d2435bdd4bc4d6dedc12deae455541",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/9a8db22537d2435bdd4bc4d6dedc12deae455541/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6"
+      }
+    ]
+  },
+  {
+    "sha": "9db26196520c709f495c8c7be44f10f01d4c38a0",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjlkYjI2MTk2NTIwYzcwOWY0OTVjOGM3YmU0NGYxMGYwMWQ0YzM4YTA=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T02:40:51Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2020-01-30T02:40:51Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "ef75ea0c080c43da68702f95603161c0cb4eb5b6",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/ef75ea0c080c43da68702f95603161c0cb4eb5b6"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/9db26196520c709f495c8c7be44f10f01d4c38a0",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJeMkIzCRBK7hj4Ov3rIwAAdHIIADnKLHDzYnpFMOSkVYzsyo/F\nVZGtvNgI/Pp8LHwepRoq5vHstILMQB7oC3Di/dm0Vpj1gWH1ec15zO8wvF/1cWt4\nO7utog4gi4QiGQauTApstP7P1Ny/FHrHv1/jQRs+o8JZ+M+FzZsr/+PIt0Ev78AQ\n+CSpH+UyIlyaQyZzQnKUMiLZ5Yf1v63lEjGN86pKV58o+KHWectSvzFxOQpVJyKr\nBHKIG3SmoQxW+Rm2xK+OyqQAT9qq2eDS6EHPZHMllSDHPkbEttdP3jqz0eywg/4W\n2uYc84HaltynPrAPSil3IbNOyFpreZxphci0SswwmrbegKI2nZDDW4J3XWYXtyg=\n=fofW\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ef75ea0c080c43da68702f95603161c0cb4eb5b6\nparent 210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6\nauthor santugowda <meetsanthoshbl@gmail.com> 1580352051 -0800\ncommitter GitHub <noreply@github.com> 1580352051 -0800\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/9db26196520c709f495c8c7be44f10f01d4c38a0",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/9db26196520c709f495c8c7be44f10f01d4c38a0",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/9db26196520c709f495c8c7be44f10f01d4c38a0/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6"
+      }
+    ]
+  },
+  {
+    "sha": "210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjIxMGYzMWRiOTNhM2NjNmNmZThhOGM3Y2NlMDg5MWMwN2MwYzE0ZDY=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T02:38:21Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T02:38:21Z"
+      },
+      "message": "Code refactor and java docs",
+      "tree": {
+        "sha": "b0040b3350664df0297aa7cbd86048b9e71bdd95",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/b0040b3350664df0297aa7cbd86048b9e71bdd95"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/210f31db93a3cc6cfe8a8c7cce0891c07c0c14d6/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7b8c8b05bf88032e613ba5a021a48624b423f250",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/7b8c8b05bf88032e613ba5a021a48624b423f250",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/7b8c8b05bf88032e613ba5a021a48624b423f250"
+      }
+    ]
+  },
+  {
+    "sha": "7b8c8b05bf88032e613ba5a021a48624b423f250",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjdiOGM4YjA1YmY4ODAzMmU2MTNiYTVhMDIxYTQ4NjI0YjQyM2YyNTA=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T02:38:09Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-30T02:38:09Z"
+      },
+      "message": "Update UI by added Cardview to show list of coffee shops and detailed view as well",
+      "tree": {
+        "sha": "ebb388d2d97b07251a37c16edf93227737d7a309",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/ebb388d2d97b07251a37c16edf93227737d7a309"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/7b8c8b05bf88032e613ba5a021a48624b423f250",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/7b8c8b05bf88032e613ba5a021a48624b423f250",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/7b8c8b05bf88032e613ba5a021a48624b423f250",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/7b8c8b05bf88032e613ba5a021a48624b423f250/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bdc1c097539ec72a4619e9339401fd4a9362935e",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/bdc1c097539ec72a4619e9339401fd4a9362935e",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/bdc1c097539ec72a4619e9339401fd4a9362935e"
+      }
+    ]
+  },
+  {
+    "sha": "bdc1c097539ec72a4619e9339401fd4a9362935e",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OmJkYzFjMDk3NTM5ZWM3MmE0NjE5ZTkzMzk0MDFmZDRhOTM2MjkzNWU=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:32:08Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:32:08Z"
+      },
+      "message": "Updated Manifest with internet permission and activities",
+      "tree": {
+        "sha": "67e29bd9f8ea2204cd24ac09d619fd99239e5ffb",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/67e29bd9f8ea2204cd24ac09d619fd99239e5ffb"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/bdc1c097539ec72a4619e9339401fd4a9362935e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/bdc1c097539ec72a4619e9339401fd4a9362935e",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/bdc1c097539ec72a4619e9339401fd4a9362935e",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/bdc1c097539ec72a4619e9339401fd4a9362935e/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "693af56925159e7e197c8c3b27e3f9d5ce38b804",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/693af56925159e7e197c8c3b27e3f9d5ce38b804",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/693af56925159e7e197c8c3b27e3f9d5ce38b804"
+      }
+    ]
+  },
+  {
+    "sha": "693af56925159e7e197c8c3b27e3f9d5ce38b804",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjY5M2FmNTY5MjUxNTllN2UxOTdjOGMzYjI3ZTNmOWQ1Y2UzOGI4MDQ=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:31:41Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:31:41Z"
+      },
+      "message": "Added Main review activity and Detailed activity of the review",
+      "tree": {
+        "sha": "d9635f2bff737a1e7cb77e9d1e90ea5762f11130",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/d9635f2bff737a1e7cb77e9d1e90ea5762f11130"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/693af56925159e7e197c8c3b27e3f9d5ce38b804",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/693af56925159e7e197c8c3b27e3f9d5ce38b804",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/693af56925159e7e197c8c3b27e3f9d5ce38b804",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/693af56925159e7e197c8c3b27e3f9d5ce38b804/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "23a5ecab8ab3aa70eae426a589c93ddfe729355d",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/23a5ecab8ab3aa70eae426a589c93ddfe729355d",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/23a5ecab8ab3aa70eae426a589c93ddfe729355d"
+      }
+    ]
+  },
+  {
+    "sha": "23a5ecab8ab3aa70eae426a589c93ddfe729355d",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjIzYTVlY2FiOGFiM2FhNzBlYWU0MjZhNTg5YzkzZGRmZTcyOTM1NWQ=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:31:08Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:31:08Z"
+      },
+      "message": "Added recycleview and its adapter. Updated strings and xml",
+      "tree": {
+        "sha": "1d3bfeba0a7865a09749b06baeb3efd5567e4c17",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/1d3bfeba0a7865a09749b06baeb3efd5567e4c17"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/23a5ecab8ab3aa70eae426a589c93ddfe729355d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/23a5ecab8ab3aa70eae426a589c93ddfe729355d",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/23a5ecab8ab3aa70eae426a589c93ddfe729355d",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/23a5ecab8ab3aa70eae426a589c93ddfe729355d/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "93b353bda658879e5da010c86e0c3d5562e3a78f",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/93b353bda658879e5da010c86e0c3d5562e3a78f",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/93b353bda658879e5da010c86e0c3d5562e3a78f"
+      }
+    ]
+  },
+  {
+    "sha": "93b353bda658879e5da010c86e0c3d5562e3a78f",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjkzYjM1M2JkYTY1ODg3OWU1ZGEwMTBjODZlMGMzZDU1NjJlM2E3OGY=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:29:38Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:29:38Z"
+      },
+      "message": "Implemeted Parcelable in ReviewModel",
+      "tree": {
+        "sha": "7a580ed9de5913ce8427074f017bfc746888d515",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/7a580ed9de5913ce8427074f017bfc746888d515"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/93b353bda658879e5da010c86e0c3d5562e3a78f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/93b353bda658879e5da010c86e0c3d5562e3a78f",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/93b353bda658879e5da010c86e0c3d5562e3a78f",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/93b353bda658879e5da010c86e0c3d5562e3a78f/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a5792813b6e3fd221edfe868cfb6480bfcaad451",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/a5792813b6e3fd221edfe868cfb6480bfcaad451",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/a5792813b6e3fd221edfe868cfb6480bfcaad451"
+      }
+    ]
+  },
+  {
+    "sha": "a5792813b6e3fd221edfe868cfb6480bfcaad451",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OmE1NzkyODEzYjZlM2ZkMjIxZWRmZTg2OGNmYjY0ODBiZmNhYWQ0NTE=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:27:55Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T19:27:55Z"
+      },
+      "message": "Added lifecycle dependencies",
+      "tree": {
+        "sha": "04c02d57adf0e3103780497362619c8c06863a51",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/04c02d57adf0e3103780497362619c8c06863a51"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/a5792813b6e3fd221edfe868cfb6480bfcaad451",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/a5792813b6e3fd221edfe868cfb6480bfcaad451",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/a5792813b6e3fd221edfe868cfb6480bfcaad451",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/a5792813b6e3fd221edfe868cfb6480bfcaad451/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "10224cfbc453df0e540dc94593d44f3b20814569",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/10224cfbc453df0e540dc94593d44f3b20814569",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/10224cfbc453df0e540dc94593d44f3b20814569"
+      }
+    ]
+  },
+  {
+    "sha": "10224cfbc453df0e540dc94593d44f3b20814569",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjEwMjI0Y2ZiYzQ1M2RmMGU1NDBkYzk0NTkzZDQ0ZjNiMjA4MTQ1Njk=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T03:39:22Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-29T03:39:22Z"
+      },
+      "message": "Added Model, View Model and retrofit api call",
+      "tree": {
+        "sha": "e41bee3a1de0867bd1fa7ffa5deadac25f7955d3",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/e41bee3a1de0867bd1fa7ffa5deadac25f7955d3"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/10224cfbc453df0e540dc94593d44f3b20814569",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/10224cfbc453df0e540dc94593d44f3b20814569",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/10224cfbc453df0e540dc94593d44f3b20814569",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/10224cfbc453df0e540dc94593d44f3b20814569/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d23e5fc3d58f3c9a99452a41d558071d0516f8d9",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/d23e5fc3d58f3c9a99452a41d558071d0516f8d9",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/d23e5fc3d58f3c9a99452a41d558071d0516f8d9"
+      }
+    ]
+  },
+  {
+    "sha": "d23e5fc3d58f3c9a99452a41d558071d0516f8d9",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OmQyM2U1ZmMzZDU4ZjNjOWE5OTQ1MmE0MWQ1NTgwNzFkMDUxNmY4ZDk=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-28T19:15:59Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-28T19:15:59Z"
+      },
+      "message": "Added packages and defined retrofit endpoint",
+      "tree": {
+        "sha": "bab613e033d1ce8f6985276f63fa12e841562865",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/bab613e033d1ce8f6985276f63fa12e841562865"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/d23e5fc3d58f3c9a99452a41d558071d0516f8d9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/d23e5fc3d58f3c9a99452a41d558071d0516f8d9",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/d23e5fc3d58f3c9a99452a41d558071d0516f8d9",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/d23e5fc3d58f3c9a99452a41d558071d0516f8d9/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7b6c637cd2c985b975c46ea8603891036bc4d6eb",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/7b6c637cd2c985b975c46ea8603891036bc4d6eb",
+        "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/7b6c637cd2c985b975c46ea8603891036bc4d6eb"
+      }
+    ]
+  },
+  {
+    "sha": "7b6c637cd2c985b975c46ea8603891036bc4d6eb",
+    "node_id": "MDY6Q29tbWl0MjM2ODAyNzc1OjdiNmM2MzdjZDJjOTg1Yjk3NWM0NmVhODYwMzg5MTAzNmJjNGQ2ZWI=",
+    "commit": {
+      "author": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-28T18:03:23Z"
+      },
+      "committer": {
+        "name": "santugowda",
+        "email": "meetsanthoshbl@gmail.com",
+        "date": "2020-01-28T18:03:23Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "607628c97074fe021e67b36d101a7d4b0524086f",
+        "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/trees/607628c97074fe021e67b36d101a7d4b0524086f"
+      },
+      "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/git/commits/7b6c637cd2c985b975c46ea8603891036bc4d6eb",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/7b6c637cd2c985b975c46ea8603891036bc4d6eb",
+    "html_url": "https://github.com/santugowda/ServiceNow_Project/commit/7b6c637cd2c985b975c46ea8603891036bc4d6eb",
+    "comments_url": "https://api.github.com/repos/santugowda/ServiceNow_Project/commits/7b6c637cd2c985b975c46ea8603891036bc4d6eb/comments",
+    "author": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "santugowda",
+      "id": 13356026,
+      "node_id": "MDQ6VXNlcjEzMzU2MDI2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13356026?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santugowda",
+      "html_url": "https://github.com/santugowda",
+      "followers_url": "https://api.github.com/users/santugowda/followers",
+      "following_url": "https://api.github.com/users/santugowda/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santugowda/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santugowda/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santugowda/subscriptions",
+      "organizations_url": "https://api.github.com/users/santugowda/orgs",
+      "repos_url": "https://api.github.com/users/santugowda/repos",
+      "events_url": "https://api.github.com/users/santugowda/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santugowda/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]

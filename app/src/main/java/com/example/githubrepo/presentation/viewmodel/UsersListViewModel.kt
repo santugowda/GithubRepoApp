@@ -7,8 +7,8 @@ import androidx.lifecycle.ViewModel
 import androidx.paging.LivePagedListBuilder
 import androidx.paging.PagedList
 import com.example.githubrepo.data.model.GithubUserModel
-import com.example.githubrepo.presentation.datasource.UsersListDataSource
-import com.example.githubrepo.presentation.datasource.UsersListDataSourceFactory
+import com.example.githubrepo.presentation.datasource.userList.UsersListDataSource
+import com.example.githubrepo.presentation.datasource.userList.UsersListDataSourceFactory
 import java.util.concurrent.Executors
 
 class UsersListViewModel(private val usersListDataSourceFactory: UsersListDataSourceFactory) : ViewModel() {

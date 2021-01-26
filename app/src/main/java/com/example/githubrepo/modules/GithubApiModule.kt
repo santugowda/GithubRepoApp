@@ -63,6 +63,7 @@ fun provideOkHttpClient(httpLoggingInterceptor: HttpLoggingInterceptor): OkHttpC
         .connectTimeout(TIME_OUT, TimeUnit.SECONDS)
         .readTimeout(TIME_OUT, TimeUnit.SECONDS)
         .writeTimeout(TIME_OUT, TimeUnit.SECONDS)
+        .addNetworkInterceptor(HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BODY))
         .addInterceptor { chain ->
             val requestBuilder = chain.request().newBuilder()
             requestBuilder.addHeader(
