@@ -73,4 +73,16 @@ dependencies {
     // Glide - Image loading framework
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    // testing
+    testImplementation 'com.squareup.okhttp3:mockwebserver:4.7.2'
+    testImplementation 'org.mockito:mockito-core:3.3.3'
+    testImplementation 'io.mockk:mockk:1.10.0'
+    testImplementation 'androidx.test.ext:junit:1.1.2'
+    testImplementation 'androidx.arch.core:core-testing:2.1.0'
+    testImplementation 'org.powermock:powermock-core:1.7.4'
+    testImplementation 'org.powermock:powermock-module-junit4:1.7.4'
+    testImplementation 'org.powermock:powermock-api-mockito2:1.7.4'
+    testImplementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    testImplementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 }
