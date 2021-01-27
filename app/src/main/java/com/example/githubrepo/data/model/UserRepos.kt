@@ -2,7 +2,7 @@ package com.example.githubrepo.data.model
 
 import com.google.gson.annotations.SerializedName
 
-data class UsersRepoModel(
+data class UserRepos(
     @SerializedName("id") val id: Int,
     @SerializedName("name") val name: String,
     @SerializedName("full_name") val fullName: String,
@@ -12,8 +12,7 @@ data class UsersRepoModel(
 )
 
 data class Owner(
-    @field:SerializedName("login")
-    val login: String,
-    @field:SerializedName("url")
-    val url: String?
+    @SerializedName("login") val login: String,
+    @SerializedName("url") val url: String?,
+    @SerializedName("avatar_url") var avatarUrl: String
 )

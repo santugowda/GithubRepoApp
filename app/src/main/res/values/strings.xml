@@ -13,4 +13,11 @@
     <string name="msg_users_list_is_empty">Empty!</string>
     <string name="msg_fetch_users_list_has_error">Has Error!</string>
     <string name="users_list_fragment_title">Github users</string>
+    <string name="user_repos_fragment_title">Github Repos</string>
+    <string name="lbl_total_count">Total Count</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="repository_details">Repository Details</string>
+    <string name="commit_message">Commit Message : </string>
+    <string name="commit_hash">Commit hash : </string>
+    <string name="repo_author">Author : </string>
 </resources>

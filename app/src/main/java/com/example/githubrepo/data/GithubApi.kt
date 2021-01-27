@@ -2,7 +2,7 @@ package com.example.githubrepo.data
 
 import com.example.githubrepo.data.model.GithubUserModel
 import com.example.githubrepo.data.model.GithubUserResponseModel
-import com.example.githubrepo.data.model.UsersRepoModel
+import com.example.githubrepo.data.model.UserRepos
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path
@@ -23,14 +23,9 @@ interface GithubApi {
 
     //    https://api.github.com/users/santugowda/repos
     @GET("users/{username}/repos")
-    suspend fun getUsersRepos(
+    suspend fun getUserRepos(
         @Path("username") username: String
-    ): Response<UsersRepoModel>
+    ): Response<List<UserRepos>>
 
     //    https://api.github.com/repos/santugowda/ServiceNow_Project/commits
-    @GET("repos/{owner}/{repo}/commits")
-    suspend fun getUsersCommitInfo(
-        @Path("owner") owner: String,
-        @Path("repo") repo: String
-    ): Response<GithubUserModel>
 }
