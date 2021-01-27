@@ -35,7 +35,7 @@ class UsersListViewModel(private val usersListDataSourceFactory: UsersListDataSo
 
         val executor = Executors.newFixedThreadPool(5)
 
-        usersLiveData = LivePagedListBuilder<Int, GithubUserModel>(usersListDataSourceFactory, config)
+        usersLiveData = LivePagedListBuilder(usersListDataSourceFactory, config)
             .setFetchExecutor(executor)
             .build()
     }

@@ -45,15 +45,14 @@ class UsersListDataSource(private val githubApiClient: GithubApiClient): PageKey
     }
 
     override fun loadBefore(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUserModel>) {
+    }
+
+    override fun loadAfter(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUserModel>) {
         scope.launch {
             val response = githubApiClient.getUsersList(params.key, PAGE_SIZE)
             response.data?.let {
                 callback.onResult(it.items, params.key + 1)
             }
         }
-    }
-
-    override fun loadAfter(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUserModel>) {
-
     }
 }
