@@ -3,7 +3,7 @@ package com.example.githubrepo.data.model
 import com.google.gson.annotations.SerializedName
 import java.util.*
 
-data class GithubUserModel(
+data class GithubUser(
     @SerializedName("id") var id: Long,
     @SerializedName("login") var login: String,
     @SerializedName("node_id") var nodeId: String,

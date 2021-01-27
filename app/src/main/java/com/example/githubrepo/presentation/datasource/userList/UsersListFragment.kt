@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.githubrepo.R
 import com.example.githubrepo.data.base.Status
-import com.example.githubrepo.data.model.GithubUserModel
+import com.example.githubrepo.data.model.GithubUser
 import com.example.githubrepo.databinding.FragmentUsersListBinding
 import com.example.githubrepo.presentation.viewmodel.UsersListViewModel
 import org.koin.androidx.viewmodel.ext.android.viewModel
@@ -67,8 +67,8 @@ class UsersListFragment : Fragment(), UsersListAdapter.OnUsersSelected {
         })
     }
 
-    override fun onUserItemClick(githubUserModel: GithubUserModel) {
-        val directions = UsersListFragmentDirections.actionUsersListFragmentToSecondFragment(githubUserModel.login)
+    override fun onUserItemClick(githubUser: GithubUser) {
+        val directions = UsersListFragmentDirections.actionUsersListFragmentToSecondFragment(githubUser.login)
         findNavController().navigate(directions)
     }
 }

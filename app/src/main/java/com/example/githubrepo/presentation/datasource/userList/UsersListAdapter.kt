@@ -10,15 +10,15 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.example.githubrepo.R
-import com.example.githubrepo.data.model.GithubUserModel
+import com.example.githubrepo.data.model.GithubUser
 import kotlinx.android.synthetic.main.users_list_item.view.*
 
 class UsersListAdapter(private val onUsersSelected: OnUsersSelected) :
-    PagedListAdapter<GithubUserModel, UsersListAdapter.UsersListViewHolder>(usersDiffCallback) {
+    PagedListAdapter<GithubUser, UsersListAdapter.UsersListViewHolder>(usersDiffCallback) {
     lateinit var context: Context
 
     interface OnUsersSelected {
-        fun onUserItemClick(githubUserModel: GithubUserModel)
+        fun onUserItemClick(githubUser: GithubUser)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): UsersListViewHolder {
@@ -34,11 +34,11 @@ class UsersListAdapter(private val onUsersSelected: OnUsersSelected) :
     }
 
     inner class UsersListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        fun bind(githubUserModel: GithubUserModel) {
+        fun bind(githubUser: GithubUser) {
             with(itemView) {
-                txtName.text = githubUserModel.login
-                txtHomeUrl.text = githubUserModel.htmlUrl
-                githubUserModel.avatarUrl.let {
+                txtName.text = githubUser.login
+                txtHomeUrl.text = githubUser.htmlUrl
+                githubUser.avatarUrl.let {
                     Glide.with(context)
                         .load(it)
                         .apply(RequestOptions.circleCropTransform())
@@ -46,24 +46,24 @@ class UsersListAdapter(private val onUsersSelected: OnUsersSelected) :
                 }
 
                 setOnClickListener {
-                    onUsersSelected.onUserItemClick(githubUserModel)
+                    onUsersSelected.onUserItemClick(githubUser)
                 }
             }
         }
     }
 
     companion object {
-        val usersDiffCallback = object : DiffUtil.ItemCallback<GithubUserModel>() {
+        val usersDiffCallback = object : DiffUtil.ItemCallback<GithubUser>() {
             override fun areItemsTheSame(
-                oldItem: GithubUserModel,
-                newItem: GithubUserModel
+                oldItem: GithubUser,
+                newItem: GithubUser
             ): Boolean {
                 return oldItem.id == newItem.id
             }
 
             override fun areContentsTheSame(
-                oldItem: GithubUserModel,
-                newItem: GithubUserModel
+                oldItem: GithubUser,
+                newItem: GithubUser
             ): Boolean {
                 return oldItem == newItem
             }

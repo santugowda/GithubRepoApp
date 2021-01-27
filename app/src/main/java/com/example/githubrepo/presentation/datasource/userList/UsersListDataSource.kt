@@ -4,13 +4,13 @@ import androidx.lifecycle.MutableLiveData
 import androidx.paging.PageKeyedDataSource
 import com.example.githubrepo.data.api.GithubApiClient
 import com.example.githubrepo.data.base.Status
-import com.example.githubrepo.data.model.GithubUserModel
+import com.example.githubrepo.data.model.GithubUser
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.coroutines.launch
 
-class UsersListDataSource(private val githubApiClient: GithubApiClient): PageKeyedDataSource<Int, GithubUserModel>() {
+class UsersListDataSource(private val githubApiClient: GithubApiClient): PageKeyedDataSource<Int, GithubUser>() {
 
     private val dataSourceJob = SupervisorJob()
     private val scope = CoroutineScope(Dispatchers.Main + dataSourceJob)
@@ -23,7 +23,7 @@ class UsersListDataSource(private val githubApiClient: GithubApiClient): PageKey
 
     override fun loadInitial(
         params: LoadInitialParams<Int>,
-        callback: LoadInitialCallback<Int, GithubUserModel>
+        callback: LoadInitialCallback<Int, GithubUser>
     ) {
         scope.launch {
             loadStateLiveData.postValue(Status.LOADING)
@@ -44,10 +44,10 @@ class UsersListDataSource(private val githubApiClient: GithubApiClient): PageKey
         }
     }
 
-    override fun loadBefore(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUserModel>) {
+    override fun loadBefore(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUser>) {
     }
 
-    override fun loadAfter(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUserModel>) {
+    override fun loadAfter(params: LoadParams<Int>, callback: LoadCallback<Int, GithubUser>) {
         scope.launch {
             val response = githubApiClient.getUsersList(params.key, PAGE_SIZE)
             response.data?.let {

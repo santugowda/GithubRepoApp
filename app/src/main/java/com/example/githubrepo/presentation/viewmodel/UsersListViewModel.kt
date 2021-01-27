@@ -6,7 +6,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.paging.LivePagedListBuilder
 import androidx.paging.PagedList
-import com.example.githubrepo.data.model.GithubUserModel
+import com.example.githubrepo.data.model.GithubUser
 import com.example.githubrepo.presentation.datasource.userList.UsersListDataSource
 import com.example.githubrepo.presentation.datasource.userList.UsersListDataSourceFactory
 import java.util.concurrent.Executors
@@ -14,7 +14,7 @@ import java.util.concurrent.Executors
 class UsersListViewModel(private val usersListDataSourceFactory: UsersListDataSourceFactory) : ViewModel() {
 
     var dataSource: MutableLiveData<UsersListDataSource>
-    lateinit var usersLiveData: LiveData<PagedList<GithubUserModel>>
+    lateinit var usersLiveData: LiveData<PagedList<GithubUser>>
     val isWaiting: ObservableField<Boolean> = ObservableField()
     val errorMessage: ObservableField<String> = ObservableField()
 
