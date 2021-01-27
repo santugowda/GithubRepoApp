@@ -28,5 +28,26 @@
         <action
             android:id="@+id/action_userReposFragment_to_usersListFragment"
             app:destination="@id/usersListFragment" />
+
+        <action
+            android:id="@+id/action_userRepoFragment_to_repoCommitFragment"
+            app:destination="@id/repoCommitFragment" />
+    </fragment>
+
+    <fragment android:id="@+id/repoCommitFragment"
+        android:name="com.example.githubrepo.presentation.datasource.repoCommits.RepoCommitsFragment"
+        android:label="@string/user_commit_fragment_title"
+        tools:layout="@layout/fragment_repo_commits">
+
+        <argument
+            android:name="owner"
+            app:argType="string" />
+
+        <argument
+            android:name="repo"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_repoCommitFragment_to_userRepoFragment"
+            app:destination="@id/userReposFragment" />
     </fragment>
 </navigation>

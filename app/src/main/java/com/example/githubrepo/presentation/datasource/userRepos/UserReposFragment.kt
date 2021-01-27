@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.githubrepo.R
@@ -47,6 +48,7 @@ class UserReposFragment : Fragment(), UserReposListAdapter.OnRepoSelected {
     }
 
     override fun onRepositorySelected(userRepos: UserRepos) {
-
+        val directions = UserReposFragmentDirections.actionUserRepoFragmentToRepoCommitFragment(userRepos.owner.login, userRepos.name)
+        findNavController().navigate(directions)
     }
 }

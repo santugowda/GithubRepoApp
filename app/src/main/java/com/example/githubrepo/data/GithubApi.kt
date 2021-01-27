@@ -1,5 +1,6 @@
 package com.example.githubrepo.data
 
+import com.example.githubrepo.data.model.CommitsModel
 import com.example.githubrepo.data.model.GithubUserModel
 import com.example.githubrepo.data.model.GithubUserResponseModel
 import com.example.githubrepo.data.model.UserRepos
@@ -21,11 +22,16 @@ interface GithubApi {
         @Path("username") username: String
     ): Response<GithubUserModel>
 
-    //    https://api.github.com/users/santugowda/repos
+    //https://api.github.com/users/username/repos
     @GET("users/{username}/repos")
     suspend fun getUserRepos(
         @Path("username") username: String
     ): Response<List<UserRepos>>
 
-    //    https://api.github.com/repos/santugowda/ServiceNow_Project/commits
+    //https://api.github.com/repos/username/reponame/commits
+    @GET("repos/{owner}/{repo}/commits")
+    suspend fun getRepoCommitInfo(
+        @Path("owner") owner: String,
+        @Path("repo") repo: String
+    ): Response<List<CommitsModel>>
 }

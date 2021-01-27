@@ -4,11 +4,6 @@
     <data>
         <import type="android.view.View"/>
         <import type="android.text.TextUtils"/>
-        <import type="android.util.SparseArray"/>
-        <import type="java.util.Map"/>
-        <import type="java.util.List"/>
-        <variable name="list" type="List&lt;String>"/>
-        <variable name="sparse" type="SparseArray&lt;String>"/>
         <variable name="index" type="int"/>
 
         <variable name="userRepoViewModel" type="com.example.githubrepo.presentation.viewmodel.UserViewModel" />
